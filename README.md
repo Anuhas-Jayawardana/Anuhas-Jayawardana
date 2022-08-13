@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anuhas-Jayawardana
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity and Unreal
-- 💞️ I’m looking to collaborate on Game dev companies
-- 📫 How to reach me via discord or gmail
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C++ and OpenGL
+- 💞️ I’m looking to collaborate with other programmers
+- 📫 contact me via discord (Mr.Kinsman#0156)
 
 <!---
 Anuhas-Jayawardana/Anuhas-Jayawardana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
